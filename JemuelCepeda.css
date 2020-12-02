@@ -1,0 +1,328 @@
+header 
+{
+margin-top: -20px;
+font-family: Montserrat Thin;
+background:white;
+color: white;
+text-align: center;
+cursor: default;
+margin-left:-10px; 
+margin-right:-10px;
+border-bottom: 2px solid black;
+
+}
+.title{
+	padding-top: 10px;
+		font-size: 16px;
+		margin-top: 0px;
+		text-shadow:black 5px 4px 3px;
+		background-color: black;
+		height: 30px;
+
+}
+		
+.logo
+{
+	height: 50px;
+	width: 150px;
+}
+
+}
+.top
+{
+margin-top:-10px;
+display: inline-flex;
+background: white;
+}
+a{text-decoration: none;
+margin: 0px;
+padding: 0px;}
+
+
+.upper
+{
+	margin-left:  -10px;
+	margin-right: -10px;
+	background:  url("https://i.ibb.co/yRDh0QL/backgroundtop.png") no-repeat center;
+   background-size: cover;
+  height: 700px;
+  position: relative;
+	box-shadow: 0px 30px  50px black}
+
+ .uppermain
+ {
+ 	float: center;
+
+ 	 }
+
+
+.h1label
+{
+margin-top: 5px;
+float: right;
+margin-right: 350px;
+font-family: Nunito Sans Extralight;
+font-size: 30px;
+}
+.h1label
+{
+margin-top: 5px;
+float: right;
+margin-right: 350px;
+font-family: Nunito Sans Extralight;
+font-size: 30px;
+}
+.video1
+{margin-top: -10px;}
+
+}
+.samplebeat
+{text-align: right;
+margin-right:  350px;
+margin-bottom: 20px;}
+.label
+
+{
+margin-top: 5px;
+float: left;
+margin-right: 350px;
+font-family: Nunito Sans Extralight;
+font-size: 12px;
+}
+
+
+}
+.label2
+{
+margin-top: 5px;
+float: right;
+margin-right: 350px;
+font-family: Nunito Sans Extralight;
+font-size: 12px;
+}
+.label3
+{
+	font-family: Montserrat Thin;
+	font-size: 17px;
+	text-align: center;
+	text-indent: 20px 20px;
+	color: black;
+}
+.down{
+	margin-top: 60px;
+	cursor: default;
+margin-left: 50px; 
+margin-right:50px;
+margin-bottom: 60px
+box-shadow: 0px 30px  50px black;
+}
+.cover1
+{
+	float: center;
+	height: 200px;
+	width: 350px;
+		border-radius: 10%;
+
+}
+.cover1:hover
+{
+	float: center;
+	height: 200px;
+	width: 350px;
+	border-radius: 10%;
+	box-shadow: 2px 2px 50px black;
+}
+footer{
+	color: white;
+	padding-top: 10px;
+	box-sizing: border-box;
+	height: auto;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	background-color: black;
+	margin-bottom: 0px;
+}
+i{
+
+	color: #FF9900;
+}
+.down1
+{
+
+font-family: arial;
+color: white;
+margin-left: 200px;
+
+font-style: bold;
+}
+.down1:hover
+{
+
+font-family: arial;
+color: black;
+
+font-style: bold;
+border-bottom: 2px solid #FF9900;
+text-shadow:  1px  1px 10px #FF9900;}
+.orasan{style="text-align:center;padding:1em 0;"}
+p{
+	text-align: center;
+	color: white;
+}
+.contact
+{
+
+font-family: arial;
+color: white;
+
+
+font-style: bold;
+}
+header 
+{
+margin-top: 0px;
+
+
+
+
+}
+.map{	box-shadow: 2px 2px 50px black;
+}
+.mid{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.up2
+{
+font-family: arial;
+color: white;
+float: right;
+margin-right: 15px;
+font-style: bold;
+}
+.upselect{
+	color: white;
+
+	margin-right: 0;
+	padding-left: 0;
+}
+.mid
+{
+	position: relative;
+left: 300px;
+}
+.two{
+	color: black;
+}
+.up
+{
+
+font-family: arial;
+color: white;
+margin-left: 20px;
+}
+.up1
+{
+
+font-family: arial;
+color: white;
+margin-left: 50px;
+font-style: bold;
+}
+.up1:hover
+{
+
+font-family: arial;
+color: black;
+margin-left: 50px;
+font-style: bold;
+border-bottom: 2px solid #FF9900;
+text-shadow:  1px  1px 10px #FF9900;}
+.up2:hover
+{
+
+font-family: arial;
+color: white;
+margin-left: 50px;
+font-style: bold;
+border-bottom: 2px solid #FF9900;
+
+}
+.upselect{background-color: #000000;}
+
+img.logo1
+{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+height: 50px;
+width: auto;}
+
+a{text-decoration: none;}
+
+}
+
+
+.down
+{
+background-color: black;
+
+
+}
+
+
+body 		{
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+			}
+
+footer{
+	color: white;
+	padding-top: 10px;
+	box-sizing: border-box;
+	height: auto;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	background-color: black;
+	margin-bottom: 0px;
+}
+i{
+
+	color: #FF9900;
+}
+.down1
+{
+
+font-family: arial;
+color: white;
+margin-left: 200px;
+
+font-style: bold;
+}
+.down1:hover
+{
+
+font-family: arial;
+color: black;
+
+font-style: bold;
+border-bottom: 2px solid #FF9900;
+text-shadow:  1px  1px 10px #FF9900;}
+.orasan{style="text-align:center;padding:1em 0;"}
+p{
+	text-align: center;
+	color: white;
+}
+.contact
+{
+
+font-family: arial;
+color: white;
+
+
+font-style: bold;
+}
